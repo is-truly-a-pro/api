@@ -45,6 +45,23 @@
     "proxied": false
   },
   {
+    "domain": "esb.is-truly-a.pro",
+    "owner": {
+      "username": "EducatedSuddenBucket",
+      "email": [
+        "educatedsuddenbucket@gmail.com",
+        "me@esb.is-a.dev"
+      ]
+    },
+    "record": {
+      "NS": [
+        "ns5.private-nameserver.net",
+        "ns6.private-nameserver.net"
+      ]
+    },
+    "proxied": false
+  },
+  {
     "domain": "hung.is-truly-a.pro",
     "owner": {
       "username": "thaihung48",
