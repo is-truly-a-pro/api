@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const domainsDir = './domains';
-const outputFilePath = './index.json';
+const outputFilePath = 'api/index.json';
 
 function combineJSONFiles() {
     const combinedData = [];
