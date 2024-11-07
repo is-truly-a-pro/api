@@ -1,0 +1,95 @@
+[
+  {
+    "domain": "@.is-truly-a.pro",
+    "owner": {
+      "username": "is-truly-a-pro"
+    },
+    "record": {
+      "A": [
+        "185.199.108.153",
+        "185.199.109.153",
+        "185.199.110.153",
+        "185.199.111.153"
+      ]
+    },
+    "proxied": false
+  },
+  {
+    "domain": "cutedog5695.is-truly-a.pro",
+    "owner": {
+      "username": "CuteDog5695",
+      "discord": "716306888492318790"
+    },
+    "record": {
+      "CNAME": "proxy.cutedog5695.me"
+    },
+    "proxied": false
+  },
+  {
+    "domain": "elaruu.is-truly-a.pro",
+    "owner": {
+      "username": "JamieD132",
+      "email": [
+        "cheese@jamied132.is-a.dev"
+      ]
+    },
+    "record": {
+      "MX": [
+        "mx1.improvmx.com",
+        "mx2.improvmx.com"
+      ],
+      "TXT": [
+        "v=spf1 include:spf.improvmx.com ~all"
+      ]
+    },
+    "proxied": false
+  },
+  {
+    "domain": "hung.is-truly-a.pro",
+    "owner": {
+      "username": "thaihung48",
+      "email": [
+        "thaihungcf+pro@gmail.com"
+      ]
+    },
+    "record": {
+      "MX": [
+        "mx1.improvmx.com",
+        "mx2.improvmx.com"
+      ],
+      "TXT": [
+        "v=spf1 include:spf.improvmx.com ~all"
+      ]
+    },
+    "proxied": false
+  },
+  {
+    "domain": "jamied132.is-truly-a.pro",
+    "owner": {
+      "username": "JamieD132",
+      "email": [
+        "cheese@jamied132.is-a.dev"
+      ]
+    },
+    "record": {
+      "CNAME": "jamied132.github.io"
+    },
+    "proxied": false
+  },
+  {
+    "domain": "test.is-truly-a.pro",
+    "owner": {
+      "username": "is-truly-a-pro",
+      "email": [
+        "test@example.com",
+        "another@example.com"
+      ]
+    },
+    "record": {
+      "A": [
+        "216.24.57.1"
+      ]
+    },
+    "proxied": false
+  }
+]
