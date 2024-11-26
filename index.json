@@ -95,5 +95,18 @@
       "CNAME": "jamied132.github.io"
     },
     "proxied": false
+  },
+  {
+    "domain": "trix.is-truly-a.pro",
+    "owner": {
+      "username": "tr1xem",
+      "email": [
+        "kmtechnical2006@gmail.com"
+      ]
+    },
+    "record": {
+      "CNAME": "tr1xem.github.io"
+    },
+    "proxied": false
   }
 ]
