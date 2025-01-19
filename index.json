@@ -18,6 +18,18 @@
     "proxied": false
   },
   {
+    "domain": "check.is-truly-a.pro",
+    "owner": {
+      "username": "is-truly-a-pro"
+    },
+    "record": {
+      "A": [
+        "185.199.108.153"
+      ]
+    },
+    "proxied": false
+  },
+  {
     "domain": "cutedog5695.is-truly-a.pro",
     "owner": {
       "username": "CuteDog5695",
