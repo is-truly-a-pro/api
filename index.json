@@ -170,5 +170,20 @@
       ]
     },
     "proxied": false
+  },
+  {
+    "domain": "www.is-truly-a.pro",
+    "owner": {
+      "username": "is-truly-a-pro",
+      "email": [
+        "no"
+      ]
+    },
+    "record": {
+      "A": [
+        "185.199.108.153"
+      ]
+    },
+    "proxied": false
   }
 ]
