@@ -8,7 +8,9 @@
       ]
     },
     "record": {
-      "CNAME": "is-truly-a-pro.github.io"
+      "A": [
+        "185.199.108.153"
+      ]
     },
     "proxied": false
   },
