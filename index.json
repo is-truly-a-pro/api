@@ -15,6 +15,19 @@
     "proxied": false
   },
   {
+    "domain": "aditya.is-truly-a.pro",
+    "owner": {
+      "username": "Clyders",
+      "email": [
+        "adityapcgaming1@gmail.com"
+      ]
+    },
+    "record": {
+      "CNAME": "adimusix.onrender.com"
+    },
+    "proxied": false
+  },
+  {
     "domain": "check.is-truly-a.pro",
     "owner": {
       "username": "is-truly-a-pro"
