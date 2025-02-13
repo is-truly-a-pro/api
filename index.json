@@ -119,6 +119,44 @@
     "proxied": false
   },
   {
+    "domain": "justdev.is-truly-a.pro",
+    "owner": {
+      "username": "JustDeveloper1",
+      "email": [
+        "dev@j.is-a.dev",
+        "justdeveloper@juststudio.is-a.dev"
+      ]
+    },
+    "record": {
+      "A": [
+        "185.199.108.153",
+        "185.199.109.153",
+        "185.199.110.153",
+        "185.199.111.153"
+      ]
+    },
+    "proxied": false
+  },
+  {
+    "domain": "justdeveloper.is-truly-a.pro",
+    "owner": {
+      "username": "JustDeveloper1",
+      "email": [
+        "dev@j.is-a.dev",
+        "justdeveloper@juststudio.is-a.dev"
+      ]
+    },
+    "record": {
+      "A": [
+        "185.199.108.153",
+        "185.199.109.153",
+        "185.199.110.153",
+        "185.199.111.153"
+      ]
+    },
+    "proxied": false
+  },
+  {
     "domain": "nullifiedsec.is-truly-a.pro",
     "owner": {
       "username": "NullifiedSec",
