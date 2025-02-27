@@ -200,6 +200,21 @@
     "proxied": false
   },
   {
+    "domain": "latealways.is-truly-a.pro",
+    "owner": {
+      "username": "latealways",
+      "email": [
+        "latealways.official@gmail.com"
+      ]
+    },
+    "record": {
+      "A": [
+        "85.239.250.3"
+      ]
+    },
+    "proxied": false
+  },
+  {
     "domain": "nullifiedsec.is-truly-a.pro",
     "owner": {
       "username": "NullifiedSec",
