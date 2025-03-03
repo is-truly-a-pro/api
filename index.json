@@ -208,7 +208,9 @@
       ]
     },
     "record": {
-      "CNAME": "upload.latealways.dev"
+      "A": [
+        "85.239.250.3"
+      ]
     },
     "proxied": false
   },
