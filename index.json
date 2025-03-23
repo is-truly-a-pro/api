@@ -277,6 +277,19 @@
     "proxied": false
   },
   {
+    "domain": "sam.is-truly-a.pro",
+    "owner": {
+      "username": "mohdjariullah",
+      "email": [
+        "mohdjariullah@gmail.com"
+      ]
+    },
+    "record": {
+      "CNAME": "jariullah.me"
+    },
+    "proxied": false
+  },
+  {
     "domain": "this.is-truly-a.pro",
     "owner": {
       "username": "tr1xem",
