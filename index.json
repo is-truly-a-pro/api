@@ -112,6 +112,20 @@
     "proxied": false
   },
   {
+    "domain": "colin.is-truly-a.pro",
+    "owner": {
+      "username": "ColinLeDev",
+      "email": [
+        "webmaster@col1n.fr"
+      ],
+      "discord": "492742642795413531"
+    },
+    "record": {
+      "CNAME": "proxy.col1n.fr"
+    },
+    "proxied": false
+  },
+  {
     "domain": "cutedog5695.is-truly-a.pro",
     "owner": {
       "username": "CuteDog5695",
