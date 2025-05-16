@@ -376,5 +376,18 @@
       ]
     },
     "proxied": false
+  },
+  {
+    "domain": "zemerik.is-truly-a.pro",
+    "owner": {
+      "username": "Zemerik",
+      "email": [
+        "zemerikY@gmail.com"
+      ]
+    },
+    "record": {
+      "CNAME": "zemerik.github.io"
+    },
+    "proxied": false
   }
 ]
