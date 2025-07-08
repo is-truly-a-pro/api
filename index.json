@@ -1,5 +1,18 @@
 [
   {
+    "domain": "4realwilly.is-truly-a.pro",
+    "owner": {
+      "username": "4realwilly",
+      "email": [
+        "wholley123@icloud.com"
+      ]
+    },
+    "record": {
+      "CNAME": "4realwilly.github.io"
+    },
+    "proxied": false
+  },
+  {
     "domain": "@.is-truly-a.pro",
     "owner": {
       "username": "is-truly-a-pro",
