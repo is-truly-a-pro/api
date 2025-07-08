@@ -188,6 +188,19 @@
     "proxied": false
   },
   {
+    "domain": "ethan.is-truly-a.pro",
+    "owner": {
+      "username": "ourstorycomic",
+      "email": [
+        "kaz442197@gmail.com"
+      ]
+    },
+    "record": {
+      "CNAME": "ourstorycomic.github.io"
+    },
+    "proxied": false
+  },
+  {
     "domain": "hung.is-truly-a.pro",
     "owner": {
       "username": "thaihung48",
