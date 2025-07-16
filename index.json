@@ -43,6 +43,22 @@
     "proxied": false
   },
   {
+    "domain": "_discord.harys.is-truly-a.pro",
+    "owner": {
+      "username": "harys722",
+      "email": [
+        "contact@harys.is-a.dev"
+      ],
+      "discord": "1203357768610746385"
+    },
+    "record": {
+      "TXT": [
+        "dh=08389103a2f47a3fcc7212c8a2fbee1bc64ccb39"
+      ]
+    },
+    "proxied": false
+  },
+  {
     "domain": "_discord.justdeveloper.is-truly-a.pro",
     "owner": {
       "username": "JustDeveloper1",
@@ -210,6 +226,22 @@
     },
     "record": {
       "CNAME": "ourstorycomic.github.io"
+    },
+    "proxied": false
+  },
+  {
+    "domain": "harys.is-truly-a.pro",
+    "owner": {
+      "username": "harys722",
+      "email": [
+        "contact@harys.is-a.dev"
+      ],
+      "discord": "1203357768610746385"
+    },
+    "record": {
+      "A": [
+        "89.106.200.1"
+      ]
     },
     "proxied": false
   },
