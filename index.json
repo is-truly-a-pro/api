@@ -103,6 +103,19 @@
     "proxied": false
   },
   {
+    "domain": "abhinav.is-truly-a.pro",
+    "owner": {
+      "username": "iabhinav-me",
+      "email": [
+        "hello@iabhinav.me"
+      ]
+    },
+    "record": {
+      "CNAME": "iabhinav.me"
+    },
+    "proxied": false
+  },
+  {
     "domain": "aditya.is-truly-a.pro",
     "owner": {
       "username": "Clyders",
